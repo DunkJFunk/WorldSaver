@@ -6,12 +6,12 @@ WorldSaver
 git clone https://github.com/DunkJFunk/WorldSaver.git
 ```
 
-1. Navigate to "wsfront" directory
+2. Navigate to "wsfront" directory
 ```bash
 cd wsfront
 ```
 
-1. Run the web server
+3. Run the web server
 ```bash
 npm run start
 ```
