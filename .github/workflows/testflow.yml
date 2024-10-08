@@ -1,0 +1,10 @@
+name: Test
+run-name: TesterTestes
+on: [push]
+jobs:
+    setup:
+        runs-on: ubuntu-latest
+        steps:
+        -   name: List GPT files.
+            run: |
+                ls
